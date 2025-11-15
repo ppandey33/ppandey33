@@ -46,7 +46,7 @@ Results-driven and detail-oriented **Senior .NET Full Stack Developer / Software
 🗂️ *Project: DXC Assure Claims (Insurance Domain)*
 
 - Architected microservice solutions improving modularity & reducing deployment time by **35%**  
-- Led a **15-member** development team; handled code reviews, mentoring, and architectural alignment  
+- Lead a **15-member** development team; handled code reviews, mentoring, and architectural alignment  
 - Built shared core libraries that reduced development effort by **25%**  
 - Integrated Google Drive, Office 365, and Gmail APIs  
 - Collaborated closely with QA, DevOps & Product for seamless CI/CD  
