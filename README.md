@@ -8,7 +8,7 @@ Results-driven and detail-oriented **Senior .NET Full Stack Developer / Software
 
 ### 🔧 **Backend**
 - C#, .NET Core, ASP.NET Web API  
-- EF Core, LINQ, **CQRS**, **Mediator**  
+- EF Core, LINQ 
 
 ### 🎨 **Frontend**
 - Angular (4–15), React  
@@ -17,7 +17,7 @@ Results-driven and detail-oriented **Senior .NET Full Stack Developer / Software
 ### 🏗️ **Architecture & Patterns**
 - Clean Architecture, Microservices, Micro Front-End
 - Multi-layered design  
-- Design Patterns  
+- Design Patterns, **CQRS**, **Mediator** 
 
 ### ☁️ **DevOps & Cloud**
 - Docker, Kubernetes, Jenkins, GitHub  
@@ -33,7 +33,7 @@ Results-driven and detail-oriented **Senior .NET Full Stack Developer / Software
 - Office 365  
 - Google APIs (Maps, Drive, Gmail)  
 
-### 📐 **Methodologies**
+### 📐 **SAFe-Focused & Teamwork**
 - SAFE Agile, TDD, Code Reviews  
 - Sprint Planning, Peer Mentorship  
 
